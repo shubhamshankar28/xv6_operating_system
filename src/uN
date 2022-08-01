@@ -1,0 +1,15 @@
+--- .git/logs/HEAD	2021-09-30 21:14:43.119232965 +0530
++++ .git/logs/HEAD	2021-08-06 12:55:41.530819000 +0530
+@@ -1 +1 @@
+-0000000000000000000000000000000000000000 eeb7b415dbcb12cc362d0783e41c3d1f44066b17 iceman <iceman@random.(none)> 1633016683 +0530	clone: from git://github.com/mit-pdos/xv6-public.git
++0000000000000000000000000000000000000000 eeb7b415dbcb12cc362d0783e41c3d1f44066b17 iceman <iceman@iceman-VirtualBox.(none)> 1628234741 +0530	clone: from git://github.com/mit-pdos/xv6-public.git
+--- .git/logs/refs/heads/master	2021-09-30 21:14:43.119232965 +0530
++++ .git/logs/refs/heads/master	2021-08-06 12:55:41.530819000 +0530
+@@ -1 +1 @@
+-0000000000000000000000000000000000000000 eeb7b415dbcb12cc362d0783e41c3d1f44066b17 iceman <iceman@random.(none)> 1633016683 +0530	clone: from git://github.com/mit-pdos/xv6-public.git
++0000000000000000000000000000000000000000 eeb7b415dbcb12cc362d0783e41c3d1f44066b17 iceman <iceman@iceman-VirtualBox.(none)> 1628234741 +0530	clone: from git://github.com/mit-pdos/xv6-public.git
+--- .git/logs/refs/remotes/origin/HEAD	2021-09-30 21:14:43.119232965 +0530
++++ .git/logs/refs/remotes/origin/HEAD	2021-08-06 12:55:41.526819000 +0530
+@@ -1 +1 @@
+-0000000000000000000000000000000000000000 eeb7b415dbcb12cc362d0783e41c3d1f44066b17 iceman <iceman@random.(none)> 1633016683 +0530	clone: from git://github.com/mit-pdos/xv6-public.git
++0000000000000000000000000000000000000000 eeb7b415dbcb12cc362d0783e41c3d1f44066b17 iceman <iceman@iceman-VirtualBox.(none)> 1628234741 +0530	clone: from git://github.com/mit-pdos/xv6-public.git

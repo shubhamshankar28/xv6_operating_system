@@ -1,0 +1,1 @@
+void setbuffer(char *p);
